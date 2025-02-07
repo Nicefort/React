@@ -1,8 +1,8 @@
 
 
 import Capital from "./Capital";
-import Hello from "./hello";
-import Student from "./student";
+import Hello from "./Hello";
+import Student from "./Student";
 
 export default function App02() {
     return (
